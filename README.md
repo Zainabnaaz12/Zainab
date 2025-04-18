@@ -37,4 +37,4 @@ Model performance was evaluated using accuracy, precision, recall, and F1-score.
 
 1. Clone this repository
 2. Install dependencies: To install the required Python libraries, run the following commands:
-pip install numpy pandas scikit-learn matplotlib seaborn jupyter nltk textblob vaderSentiment
+pip install numpy pandas scikit-learn matplotlib seaborn 
